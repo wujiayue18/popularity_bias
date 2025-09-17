@@ -16,7 +16,7 @@ This repository is adapted from the official [LightGCN-PyTorch implementation](h
 
 ### 🔹 LightGCN Baseline
 
-Pre-trained LightGCN models are stored in: "./checkpoints/{dataset}/lgn-amazon-book-3-64-lgn.pth.tar"
+Pre-trained LightGCN models are stored in: "./checkpoints/{dataset}/lgn-{dataset}-3-64-lgn.pth.tar"
 
 ### Popularity-Steer Adapter
 
