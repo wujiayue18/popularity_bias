@@ -18,9 +18,6 @@ This repository is adapted from the official [LightGCN-PyTorch implementation](h
 
 Pre-trained LightGCN models are stored in: "./checkpoints/{dataset}/lgn-amazon-book-3-64-lgn.pth.tar"
 
-*(replace `{dataset}` with `gowalla`, `yelp2018`, or `amazon-book` as appropriate).*
-
-
 ### Popularity-Steer Adapter
 
 This repository implements a **Popularity-Steer Adapter** inspired by the adapter design in:
